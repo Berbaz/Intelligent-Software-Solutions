@@ -30,6 +30,6 @@ git init
 git add .
 git commit -m "Initial project upload"
 git branch -M main
-git remote add origin https://github.com/YOUR_USER/YOUR_REPO.git
+git remote add origin https://github.com/Berbaz/Intelligent-Software-Solutions.git
 git push -u origin main
 ```
